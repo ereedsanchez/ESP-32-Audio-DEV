@@ -5,7 +5,7 @@ ESP32 AUDIO Board - Development for STEP Summer 2023
 
 Setup 
 - Install Libraries: 
--  - AudioKitHAL.h
+-  - AudioKitHAL.h: https://github.com/pschatzmann/arduino-audiokit
 -  - SineWaveGenerator.h
 -  Arduino Sketch: esp32-audio-multi-sine
 
